@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professor Profile - Proflink</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <!-- Font Awesome for Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Google Fonts -->
@@ -62,9 +63,6 @@
                         <div class="info-content">
                             <span class="info-label">Email</span>
                             <a href="#" id="profMail" class="info-text"></a>
-                            <button id="aiComposeBtn" class="ai-compose-btn hidden" title="Compose Email with AI">
-                                <i class="fa-solid fa-wand-magic-sparkles"></i> AI Compose
-                            </button>
                         </div>
                     </div>
                     
@@ -74,6 +72,12 @@
                             <span class="info-label">Contact</span>
                             <a href="#" id="profContact" class="info-text"></a>
                         </div>
+                    </div>
+
+                    <div style="margin-top: 1.5rem;">
+                        <button id="aiComposeBtn" class="ai-compose-btn hidden" title="Compose Email with AI">
+                            <i class="fa-solid fa-wand-magic-sparkles"></i> Compose Email
+                        </button>
                     </div>
                 </div>
             </aside>
@@ -102,8 +106,19 @@
         </div>
     </main>
 
-    <footer style="text-align: center; padding: 2rem 1rem; margin-top: 2rem; color: #94a3b8; font-family: 'Inter', sans-serif;">
-        <p>Made by <a href="https://www.instagram.com/rohit_reddy_53/?__pwa=1" target="_blank" style="color: inherit; text-decoration: underline;">Rohit Reddy</a> and <a href="https://www.instagram.com/mshoaibkhan786/?__pwa=1" target="_blank" style="color: inherit; text-decoration: underline;">Mohammed Shoaib Khan</a></p>
+    <footer class="app-footer">
+        <div class="footer-content">
+            <p>Made by</p>
+            <div class="creators">
+                <a href="https://www.instagram.com/rohit_reddy_53/?__pwa=1" target="_blank" class="creator-link">
+                    <i class="fa-brands fa-instagram"></i> Rohit Reddy
+                </a>
+                <span class="separator">&amp;</span>
+                <a href="https://www.instagram.com/mshoaibkhan786/?__pwa=1" target="_blank" class="creator-link">
+                    <i class="fa-brands fa-instagram"></i> Mohammed Shoaib Khan
+                </a>
+            </div>
+        </div>
     </footer>
 
     <!-- Generate Email Modal -->
