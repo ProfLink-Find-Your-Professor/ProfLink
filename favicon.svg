@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.1" />
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02" />
+        </linearGradient>
+        <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#3b82f6" />
+            <stop offset="100%" stop-color="#8b5cf6" />
+        </linearGradient>
+    </defs>
+    <!-- Background block to give that dark mode vibe -->
+    <rect x="0" y="0" width="64" height="64" fill="#0f172a" rx="16" />
+    <rect x="0" y="0" width="64" height="64" fill="url(#bg)" rx="16" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2" />
+    <text x="32" y="34" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-size="32" font-weight="900" text-anchor="middle" dominant-baseline="middle">
+        <tspan fill="#ffffff">P</tspan><tspan fill="url(#textGrad)">L</tspan>
+    </text>
+</svg>

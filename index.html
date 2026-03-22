@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proflink - Professor Directory</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <meta name="description" content="Discover and connect with your college professors. Explore cabins, mails, and qualifications instantly.">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Animated Blobs for Dark Glassmorphism Effect -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+    <div class="bg-shape bg-shape-3"></div>
+
+    <main class="container">
+        <!-- Header & Search -->
+        <header class="header">
+            <div class="logo">
+                <h1>Prof<span>Link</span></h1>
+            </div>
+            <p class="subtitle">Connect with your faculty. Find their cabin, mail, and details instantly.</p>
+        </header>
+
+        <!-- Sticky Search Bar -->
+        <div class="search-wrapper sticky-search">
+            <i class="fa-solid fa-search search-icon"></i>
+            <input type="text" id="searchInput" placeholder="Search by professor name..." autocomplete="off">
+            <button id="clearSearch" class="clear-btn hidden"><i class="fa-solid fa-times"></i></button>
+            <div class="filter-icon-wrapper" id="filterDropdownToggle" title="Filter by Department">
+                <i class="fa-solid fa-sliders"></i>
+                <!-- Custom Dropdown Menu -->
+                <ul class="custom-dropdown" id="deptDropdownMenu">
+                    <li data-value="" class="active">All Departments</li>
+                    <!-- Departments injected via JS -->
+                </ul>
+            </div>
+        </div>
+
+        <!-- Starred Section -->
+        <section id="starredSection" class="section hidden">
+            <div class="section-title">
+                <h2><i class="fa-solid fa-star text-gradient-yellow"></i> Starred Professors</h2>
+                <div class="line"></div>
+            </div>
+            <div class="cards-grid" id="starredGrid">
+                <!-- Starred professor cards injected via JS -->
+            </div>
+        </section>
+
+        <!-- All Professors Section -->
+        <section id="allSection" class="section">
+            <div class="section-title">
+                <h2><i class="fa-solid fa-users text-gradient-blue"></i> Faculty Directory</h2>
+                <div class="line"></div>
+            </div>
+            <div id="noResults" class="no-results hidden">
+                <i class="fa-regular fa-face-frown-open"></i>
+                <p>No professors found matching your search.</p>
+            </div>
+            <div class="cards-grid" id="allGrid">
+                <!-- All professor cards injected via JS -->
+            </div>
+            <div id="loadMoreContainer" style="text-align: center; margin-top: 3rem;">
+                <button id="loadMoreBtn" class="load-more-btn hidden">Load More <i class="fa-solid fa-chevron-down"></i></button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <div class="footer-content">
+            <p>Made by</p>
+            <div class="creators">
+                <a href="https://www.instagram.com/rohit_reddy_53/?__pwa=1" target="_blank" class="creator-link">
+                    <i class="fa-brands fa-instagram"></i> Rohit Reddy
+                </a>
+                <span class="separator">&amp;</span>
+                <a href="https://www.instagram.com/mshoaibkhan786/?__pwa=1" target="_blank" class="creator-link">
+                    <i class="fa-brands fa-instagram"></i> Mohammed Shoaib Khan
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Supabase JS Client -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <!-- Fuse.js for Fuzzy Search -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    <script src="script.js"></script>
+</body>
+</html>

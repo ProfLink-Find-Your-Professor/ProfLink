@@ -1,0 +1,26 @@
+[
+    {
+        "id": "prof_gopalakrishna_pai",
+        "name": "A Gopalakrishna Pai",
+        "department": "School of Electrical Engineering, MIT",
+        "image": "https://www.manipal.edu/content/dam/manipal/mu/mit/images/profile/ECE/ASG_8058.JPG.transform/manipal-edu-transform-width-height-528px/image.jpg",
+        "cabin": "Not Provided Online",
+        "mail": "gopalkrishna.pai@manipal.edu",
+        "contact": "Not Provided Online",
+        "qualifications": "B.E.(E&C)",
+        "occupation": "Assistant Professor",
+        "bio": "Assistant Professor at the School of Electrical Engineering, Manipal Institute of Technology.",
+        "education": [
+            "B.E. in Electronics & Communication"
+        ],
+        "research": [
+            "Electrical Engineering (General)"
+        ],
+        "courses_taught": [],
+        "awards": [],
+        "publications": [],
+        "linkedin_url": "",
+        "google_scholar_url": "",
+        "tags": []
+    }
+]

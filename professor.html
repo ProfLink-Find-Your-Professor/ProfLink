@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor Profile - Proflink</title>
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Animated Blobs for Dark Glassmorphism Effect -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+    <div class="bg-shape bg-shape-3"></div>
+
+    <main class="container">
+        <header class="header" style="margin-bottom: 2rem; padding-top: 1rem; text-align: left;">
+            <div class="logo">
+                <a href="index.html"><h1>Prof<span>Link</span></h1></a>
+            </div>
+        </header>
+
+        <a href="index.html" class="back-link">
+            <i class="fa-solid fa-arrow-left"></i> Back to Directory
+        </a>
+
+        <div id="profileSection" class="profile-layout">
+            <!-- Left Sidebar -->
+            <aside class="profile-sidebar" style="position: relative;">
+                <div class="profile-img-wrap">
+                    <img src="" alt="" id="profImage" class="profile-img">
+                </div>
+                <h2 id="profName" class="profile-name">Loading...</h2>
+                <p id="profTitle" class="prof-title text-sec"></p>
+                
+                <button id="profileStarBtn" class="profile-star-btn" style="position: absolute; top: 1.5rem; right: 1.5rem; background: transparent; border: none; font-size: 1.8rem; cursor: pointer; color: var(--primary, #e2e8f0); padding: 0; box-shadow: none;">
+                    <i id="profileStarIcon" class="fa-regular fa-star transition-all duration-300 hover:scale-110"></i>
+                </button>
+
+                <div class="profile-info">
+                    <div class="info-row">
+                        <div class="info-icon"><i class="fa-solid fa-building-columns"></i></div>
+                        <div class="info-content">
+                            <span class="info-label">Department</span>
+                            <span id="profDepartmentInfo" class="info-text"></span>
+                        </div>
+                    </div>
+
+                    <div class="info-row">
+                        <div class="info-icon"><i class="fa-solid fa-door-open"></i></div>
+                        <div class="info-content">
+                            <span class="info-label">Cabin</span>
+                            <span id="profCabin" class="info-text"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="info-row">
+                        <div class="info-icon"><i class="fa-solid fa-envelope"></i></div>
+                        <div class="info-content">
+                            <span class="info-label">Email</span>
+                            <a href="#" id="profMail" class="info-text"></a>
+                            <button id="aiComposeBtn" class="ai-compose-btn hidden" title="Compose Email with AI">
+                                <i class="fa-solid fa-wand-magic-sparkles"></i> AI Compose
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="info-row">
+                        <div class="info-icon"><i class="fa-solid fa-phone"></i></div>
+                        <div class="info-content">
+                            <span class="info-label">Contact</span>
+                            <a href="#" id="profContact" class="info-text"></a>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Right Main Content -->
+            <section class="profile-main">
+                <div class="profile-section">
+                    <h3><i class="fa-solid fa-user"></i> Biography</h3>
+                    <p id="profBio" class="profile-bio"></p>
+                </div>
+
+                <div class="profile-section">
+                    <h3><i class="fa-solid fa-graduation-cap"></i> Education</h3>
+                    <ul id="profEducation" class="bullets-list">
+                        <!-- Education injected via JS -->
+                    </ul>
+                </div>
+
+                <div class="profile-section">
+                    <h3><i class="fa-solid fa-microscope"></i> Research Fields</h3>
+                    <div id="profResearch" class="tags-container">
+                        <!-- Research tags injected via JS -->
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer style="text-align: center; padding: 2rem 1rem; margin-top: 2rem; color: #94a3b8; font-family: 'Inter', sans-serif;">
+        <p>Made by <a href="https://www.instagram.com/rohit_reddy_53/?__pwa=1" target="_blank" style="color: inherit; text-decoration: underline;">Rohit Reddy</a> and <a href="https://www.instagram.com/mshoaibkhan786/?__pwa=1" target="_blank" style="color: inherit; text-decoration: underline;">Mohammed Shoaib Khan</a></p>
+    </footer>
+
+    <!-- Generate Email Modal -->
+    <div id="aiModal" class="modal hidden">
+        <div class="modal-content" style="max-height: 90vh; overflow-y: auto;">
+            <div class="modal-header">
+                <h2><i class="fa-solid fa-wand-magic-sparkles text-gradient-blue"></i> Compose with AI</h2>
+                <button id="closeModalBtn" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="studentName">Your Name</label>
+                    <input type="text" id="studentName" placeholder="Enter your name" autocomplete="name">
+                </div>
+                <div class="form-group">
+                    <label for="studentEmail">Your Email</label>
+                    <input type="email" id="studentEmail" placeholder="e.g. your.name@learner.manipal.edu" autocomplete="email">
+                </div>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                    <div class="form-group" style="margin-bottom: 0;">
+                        <label for="studentRoll">Roll No.</label>
+                        <input type="text" id="studentRoll" placeholder="e.g. 56">
+                    </div>
+                    <div class="form-group" style="margin-bottom: 0;">
+                        <label for="studentSection">Section</label>
+                        <input type="text" id="studentSection" placeholder="e.g. CC">
+                    </div>
+                </div>
+                <div class="form-group" style="margin-top: 1.2rem;">
+                    <label for="emailPrompt">What is the email about?</label>
+                    <textarea id="emailPrompt" rows="3" placeholder="e.g. Need permission to join your research project..."></textarea>
+                </div>
+                <button id="generateEmailBtn" class="generate-btn">
+                    <i class="fa-solid fa-bolt"></i> Generate & Open in Outlook
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Supabase JS Client -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="script.js"></script>
+</body>
+</html>
