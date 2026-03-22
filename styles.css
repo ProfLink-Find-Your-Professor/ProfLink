@@ -241,6 +241,7 @@ body {
     top: calc(100% + 20px);
     right: -10px;
     min-width: 250px;
+    max-width: calc(100vw - 40px);
     max-height: 350px;
     overflow-y: auto;
     overscroll-behavior: contain;
@@ -313,7 +314,8 @@ body {
     cursor: pointer;
     transition: all 0.2s ease;
     text-align: left;
-    white-space: nowrap;
+    white-space: normal;
+    word-break: break-word;
     border: 1px solid transparent;
 }
 
