@@ -1,0 +1,163 @@
+Fetching Computer Science professors...
+Found 167 professors in Computer Science.
+[UPDATED] Dr. Harsh Nagar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Deepthi S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mr. Anirudhan Adukkathayar C | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Dasharathraj K Shetty | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Giridhar N Shakarad | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. B Kishore | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Abhilash K Pai | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Ashutosh Holla B | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Manjunath Vishweshwar Hegde | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Govardhan Hegde K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Pawan S Jogi | Dept: Department of Computer Science & Engg -> School of Computer Engineering
+[UPDATED] Dr.Harish S V | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Ahamed Shafeeq B M | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Ancilla Juliet Pinto | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Chetana Pujari | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Divya S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Archana H | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Akshay Bhat | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.PB Shanthi | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Ashwath Rao B | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Chithra K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Arpan Mandal | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Diana Olivia | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr Andrew J | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Radhika Kamath | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Jimcymol James | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr  Anup  Bhat B | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Gangothri Sanil | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Aarabhi Putty | Dept: Department of Computer Science & Engg -> School of Computer Engineering
+[UPDATED] Ganesh Babu C | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Srikanth Prabhu | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Divya Rao | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Archana Praveen Kumar Ph.D. | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Adarsh Rag S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Anita S Kini | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.G Deepa | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Veena K M | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Musica Supriya | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] SK SS Shameem | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Shankar Biradar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Krishna Prakasha K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. N Sivaselvan | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Subhrajit Barick | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Ramya D. Shetty | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Sahana Roshan | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Karanth Shyam Subraya | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Linda Varghese | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Rani Oomman Panicker | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Munmun Gharami | Dept: Department of Computer Science & Engg -> School of Computer Engineering
+[UPDATED] Dr. Rashmi Naveen Raj | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Tanuja Shailesh Ph.D. | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Prakash Kalingrao Aithal | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Pragya Jha | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Poornalatha G | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Santhosha Rao | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. P C Siddalingaswamy | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Jyothi Upadhya K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Pooja S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Manjunatha | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Namrata Marium Chacko | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mr. Ranjith K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Raghavendra Ganiga | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mr. Shanmukharaja M | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Manjula C Belavagi | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Ms.Anjana S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Priya Kamath B | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Jashma Suresh PP | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Rohini R Rao | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Suma D | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Santhosh Kamath | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr Savitha G | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Krishnaraj Chadaga | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Raghavendra S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Rajashree Krishna | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Manoj T | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Radhakrishna Bhat | Dept: Department of Computer Science and Engineering -> School of Computer Engineering
+[UPDATED] Rajesh Gopakumar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Raghurama Holla | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mr. Sudhina Kumar G K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Tojo Thomas | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Pankaj Kumar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Sangeetha TS | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Swathi B P | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Saraswati Koppad | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Prajna Paramita Pradhan | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Raghu Thekke Veedu | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Shavantrevva Sangappa Bilakeri | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sucharitha Shetty | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Roopashri Shetty | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Veena Mayya | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Roshan David Jathanna | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Satyajit Mahapatra | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Manoj R | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Swathi Prabhu | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Muralikrishna SN | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Shwetha Rai | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. KAMARAJ K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sandhyalaxmi G Navada | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Praveen Pai T | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.G. Pradeep Reddy | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Vidya Rao | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Krishnamoorthi Makkithaya | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Geetha M | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Smitha N Pai | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Manjula Shenoy K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Narendra V G | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Ajitha Shenoy K B | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Vijaya Arjunan R | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Roopalakshmi R | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sumith N | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Neelima Bayyapu | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.T.Sujithra | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Kaliraj S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Deepak Parashar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Gururaj | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Vinayak M | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Akshay K C | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Vidhya V | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Rashmi Laxmikant Malghan | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sameena Pathan | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Vidya Kamath | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Sindhura D N | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Ms. Athira Gopalakrishnan | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Mamatha Balachandra | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Anuradha Rao | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sandhya Parasnath Dubey | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Balachandra | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Manohara M M Pai | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Manjunath K N | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Radhika M Pai | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Preetham Kumar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Dinesh Acharya U | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mohandas Shenoy P | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. V. Sivakumar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Gopalakrishna N Kini | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr Renuka A | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Chandrakala C B | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Venkatesh Bhandage | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Shivaprasad G | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Ashalatha Nayak | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sanjay Singh | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Hemalatha S | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr.Vivekananda Bhat K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Manamohana K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Poornima Panduranga Kundapur | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Girija Attigeri | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mrs. Vibha | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Anoop B N | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Ujjwal | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Radha Krishna Reddy P | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Ms. Jayashree Hegde K | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Avik Bose | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Mr. Vinayak G Pai | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Snehal  Samanth | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Shreenidhi H Bhat | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Ramakrishna M | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Gouranga Mandal | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Bhukya Padma | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Sucheta Kolekar | Dept: Computer Science -> School of Computer Engineering
+[UPDATED] Dr. Rajesh Mahadeva | Dept: Computer Science -> School of Computer Engineering
+DONE! Updated 160 records.

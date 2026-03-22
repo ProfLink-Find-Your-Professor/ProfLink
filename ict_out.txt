@@ -1,0 +1,15 @@
+Fetching matching professors...
+Found 12 professors in ICT.
+[UPDATED] Dr. Adesh N.D. (Department of Information & Communication Technology -  MIT) -> School of Computer Engineering
+[UPDATED] Mrs. Jayashree (Department of Information & Communication Technology) -> School of Computer Engineering
+[UPDATED] Mr. Arjun C V (Department of Information & Communication Technology) -> School of Computer Engineering
+[UPDATED] Mrs. Anusha Hegde (Department of Information & Communication Technology) -> School of Computer Engineering
+[UPDATED] Dr Kumar Rajamani (Department of Information & Communication Technology -  MIT) -> School of Computer Engineering
+[UPDATED] Ms. Ramyashree (Department of Information & Communication Technology) -> School of Computer Engineering
+[UPDATED] Dr. Madhusudhan Govindaraju (Department of Information & Communication Technology -  MIT) -> School of Computer Engineering
+[UPDATED] Dr. Raviraja Holla M (Department of Information & Communication Technology) -> School of Computer Engineering
+[UPDATED] Dr. Manoj Tolani (Department of Information & Communication Technology -  MIT) -> School of Computer Engineering
+[UPDATED] Dr. Nisha P Shetty (Department of Information and Communication Technology) -> School of Computer Engineering
+[UPDATED] Dr. Raghavendra Achar (Department of Information & Communication Technology) -> School of Computer Engineering
+[UPDATED] Dr. Sukhdeep Singh (Department of Information & Communication Technology -  MIT) -> School of Computer Engineering
+DONE! Updated 12 records.

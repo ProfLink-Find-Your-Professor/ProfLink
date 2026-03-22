@@ -270,6 +270,15 @@ function createCardHTML(prof, isStarred) {
     const starIconClass = isStarred ? "fa-solid" : "fa-regular";
     const starBtnClass = isStarred ? "active" : "";
 
+    let subTitle = prof.occupation || "";
+    if (prof.school && prof.school !== "null" && prof.school.trim() !== "") {
+        subTitle += ` • ${prof.school}`;
+    } else if (prof.department && prof.department !== "null" && prof.department.trim() !== "") {
+        subTitle += ` • ${prof.department}`;
+    } else if (prof.qualifications && prof.qualifications.trim() !== "") {
+        subTitle += ` • ${prof.qualifications}`;
+    }
+
     return `
         <div class="prof-card" data-id="${prof.id}">
             <div class="card-header">
@@ -280,7 +289,7 @@ function createCardHTML(prof, isStarred) {
                     </button>
                 </div>
                 <h3 class="prof-name">${prof.name}</h3>
-                <p class="prof-title">${prof.occupation} • ${prof.qualifications}</p>
+                <p class="prof-title">${subTitle}</p>
                 <span class="dept-badge">${prof.department}</span>
             </div>
             
@@ -382,10 +391,17 @@ function renderProfilePage() {
     document.getElementById('profBio').textContent = prof.bio;
 
     const educationList = document.getElementById('profEducation');
-    if (prof.education && prof.education.length > 0) {
-        educationList.innerHTML = prof.education.map(edu => `
-            <li><i class="fa-solid fa-graduation-cap"></i> ${edu}</li>
-        `).join('');
+    if (prof.qualifications && prof.qualifications.trim() !== '') {
+        const quals = prof.qualifications.split(',').map(q => q.trim()).filter(q => q !== "");
+        if (quals.length > 0) {
+            educationList.innerHTML = quals.map(edu => `
+                <li><i class="fa-solid fa-graduation-cap"></i> ${edu}</li>
+            `).join('');
+        } else {
+            educationList.innerHTML = '<li><i class="fa-solid fa-graduation-cap"></i> Details Not Provided Online</li>';
+        }
+    } else {
+        educationList.innerHTML = '<li><i class="fa-solid fa-graduation-cap"></i> Details Not Provided Online</li>';
     }
 
     const researchContainer = document.getElementById('profResearch');
