@@ -1,0 +1,57 @@
+EEE Department Faculty List - MIT Manipal
+SN Name Designation Email Room
+1Dr. Ciji Pearl Kurian Senior Professor ciji.pearl@manipal.edu F2/219.4
+2Dr. Vinod V. Thomas Professor vinod.thomas@manipal.edu AB1
+3Dr. P. Giridhar Kini Professor giridhar.kini@manipal.edu AB1
+4Dr. Jayalakshmi N. S. Senior Professor jayalakshmi.ns@manipal.edu 221.3
+5Dr. R. Shivarudra Swamy Professor shivarudraswamy.r@manipal.edu EE 216.1
+6Dr. Vijayalaxmi Additional Professor vijaya.laxmi@manipal.edu 123-1
+7Dr. Chandrika B. K Associate Professor chandrika.bk@manipal.edu 221-4
+8Dr. Arun P Parameswaran Associate Professor arun.p@manipal.edu FC-1 115.3
+9Dr. Laxman Rao S. Paragond Associate Professor laxman.sp@manipal.edu FC-1 115.8
+10Dr. Shailesh K. R Associate Professor shailesh.kr@manipal.edu 223.5
+11Dr. R. C. Mala Associate Professor mala.rc@manipal.edu 223.6
+12Dr. Gururaj Rao H. V Associate Professor gururaj.rao@manipal.edu EE 223.1
+13Dr. Vinay Kumar J Associate Professor vinay.jadoun@manipal.edu FC-1 115.1
+14Dr. Bindu S. Associate Professor bindu.s@manipal.edu 221-9
+15Dr. Susan G. Varghese Associate Professor susan.varghese@manipal.edu EE 223.2
+16Dr. R. Srividya Associate Professor srividya.r@manipal.edu 221.8
+17Dr. Anjan N Padmasali Associate Professor FC-1 115.2 FC-1 115.2
+18Dr. Bharathi R. B. Associate Professor bharathi.rb@manipal.edu 123.6
+19Dr. ASS Veerendra Babu Associate Professor veerendra.babu@manipal.edu 123.2
+20Dr. Soumya Ranjan Das Associate Professor soumya.das@manipal.edu SSD Lab
+21Mr. K. Shankaranarayana Assistant Professor-Selec shankara.k@manipal.edu F2/219.3
+22Mr. James Antony Pinto Assistant Professor-Senio Pinto.james@manipal.edu EE 126.1
+23Ms. Soubhagyaseetha N. Assistant Professor-Senio soubhagya.s@manipal.edu F2/219.3
+24Mr. Ganesh Kudva Assistant Professor-Senio ganesh.kudva@manipal.edu FCI 115.10
+25Dr. Sudheendra Prabhu Assistant Professor-Senio sudhi.prabhu@manipal.edu FCI 115.6
+26Mr. Pramod Antony D'Sa Assistant Professor-Senio pramod.dsa@manipal.edu EE 126.1
+27Dr. Swathi Tangi Assistant Professor-Senio swathi.tangi@manipal.edu EE 216.3
+28Dr. Sowmya R Assistant Professor-Senio sowmya.r@manipal.edu DSD Lab 221.7
+29Mr. Vikash Kumar Jhunjhunwala Assistant Professor-Senio vikas.kumar@manipal.edu FC-1 115.7
+30Dr. Siddaraj U Assistant Professor-Senio siddaraj.u@manipal.edu FCI 115.5
+Page 1
+EEE Department Faculty List - MIT Manipal
+31Mr. Vineeth Patil Assistant Professor-Senio vineeth.patil@manipal.edu 218.4
+32Ms. Divya Shetty Assistant Professor-Senio divya.shetty@manipal.edu 126.4
+33Dr. Shwetha V. Assistant Professor-Senio shwetha.v@manipal.edu 218.1
+34Mr. Siddhartha Assistant Professor-Senio siddhartha.mit@manipal.edu 123.3
+35Mr. Satyakam Assistant Professor-Senio satyakam.deo@manipal.edu FC-1 115.9
+36Mr. Vedavyasa Kamath Assistant Professor-Senio vedavyasa.kamath@manipal.edu 222.1
+37Ms. Namratha Pai Assistant Professor-Senio namratha.pai@manipal.edu 218.5
+38Dr. Harshendra N. Shet K. Assistant Professor-Senio harshendra.shet@manipal.edu FCI 115.4
+39Mr. Lokesh J Assistant Professor-Senio lokesh.j@manipal.edu 218.4
+40Mr. Anandh N Assistant Professor-Senio anandh.n@manipal.edu FC-2 219.2
+41Mr. Adarsh S Assistant Professor adarsh.s@manipal.edu FC-2 219.2
+42Mr. Vipin V Assistant Professor vipin.valsan@manipal.edu 123-3
+43Ms. Suprabha Padiyar U. Assistant Professor suprabha.padiyar@manipal.edu 218.5
+44Ms. Athulya Jyothi Assistant Professor athulya.jyothi@manipal.edu 218.1
+45Ms. Shruthi Ramachandra Assistant Professor shruthi.r@manipal.edu 218.6
+46Ms. Prathvi Shenoy Assistant Professor prathvi.nayak@manipal.edu 218.6
+47Dr. Prateek Jain Assistant Professor prateek.jain@manipal.edu FC-1 115.4
+48Dr. Sachin Sharma Assistant Professor sachin.sharma@manipal.edu FCI 115.1
+49Dr. Praveen Kumar Bonthag Assistant Professor praveen.bonthagorla@manipal.edu F2/219.1
+50Dr. Pankaj Kumar Assistant Professor k.pankaj@manipal.edu F2/219.1
+51Dr. Abhinandan Routray Assistant Professor abhinandan.routray@manipal.edu ESD
+52Dr. Prasanth Kumar Enagan Assistant Professor enaganti.prasanth@manipal.edu SSD
+Page 2

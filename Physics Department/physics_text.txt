@@ -1,0 +1,34 @@
+Faculty Name Department Name Designation
+Dr. Kalpataru Panda Physics Associate Professor
+Dr. Dinesh Negi Physics Assistant Professor-Senior Scale
+Dr. Mahesha M.G. Physics Associate Professor
+Dr. Pramoda Kumara Shetty Physics Professor
+Dr. Ashwatha Narayana Prabhu Physics Associate Professor
+Dr. B.V. Rajendra Physics Professor
+Dr. Poornesh P Physics Associate Professor
+Dr. Mamatha D Daivajna Physics Associate Professor
+Dr. Ismayil Physics Associate Professor
+Dr. Bhaghyesh Physics Associate Professor
+Dr. Gurumurthy S.C. Physics Associate Professor
+Dr. Raviprakash Y Physics Professor
+Dr. Gowrish Rao K Physics Associate Professor
+Dr. Vikash Mishra Physics Assistant Professor-Senior Scale
+Dr. Akhilesh Ranjan Physics Assistant Professor-Selection Grade
+Dr. Dhananjaya Kekuda Physics Professor
+Cabin Details
+AB2-Basement Floor- Physics Department- Cabin 01
+AB2-Basement Floor- Physics Department- Cabin 02
+AB2-Basement Floor- Physics Department- Cabin 03
+AB2-Basement Floor- Physics Department- Cabin 04
+AB2-Basement Floor- Physics Department- Cabin 05
+AB2-Basement Floor- Physics Department- Cabin 06
+AB2-Basement Floor- Physics Department- Cabin 07
+AB2-Basement Floor- Physics Department- Cabin 08
+AB2-Basement Floor- Physics Department- Cabin 09
+AB2-Basement Floor- Physics Department- Cabin 10
+AB2-Basement Floor- Physics Department- Cabin 11
+AB2-Basement Floor- Physics Department- Cabin 12
+AB2-Basement Floor- Physics Department- Cabin 13
+AB2-Basement Floor- Physics Department- Cabin 14
+AB2-Basement Floor- Physics Department- Cabin 15
+AB2-Basement Floor- Physics Department- Cabin 16

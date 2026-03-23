@@ -1,0 +1,25 @@
+Chemistry Department Faculty List - MIT Manipal
+SN Name Designation Room
+1Dr. MP Yashoda Professor CHM-11
+2Dr. Suma A Rao Professor CHM-12
+3Dr. Santhosh Laxman Gaonkar Professor CHM-05
+4Dr. Dhanya Sunil Professor CHM-07
+5Dr. Subrahmanya Bhat K Professor CHM-03
+6Dr. M Srinivasulu Additional Professor CHM-06
+7Dr. NV Anil Kumar Additional Professor CHM-04
+8Dr. Faslulla Associate Professor CHM-01
+9Dr. Selva Kumar M Associate Professor CHM-16
+10Dr. Poornima Bhagavath Associate Professor CHM-02
+11Dr. Nithin Kumar S Shetty Associate Professor CHM-15
+12Dr. Preethi Kumari P Associate Professor CHM-14
+13Dr. Sudhakar Y N Associate Professor CHM-10
+14Dr. Pushpanjali Associate Professor CHM-17
+15Dr. Venkatachalam H Assistant Professor - Selection Grade CHM-13
+16Mr. B S Manjunatha Assistant Professor - Senior Scale CHM-08
+17Dr. Sowmya R Holla Assistant Professor - Selection Grade CHM-18
+18Dr. Akshatha R Shetty Assistant Professor CHM-09
+19Dr. Meghana Navada Assistant Professor CHM-09
+20Dr. Partha Pratham Das Assistant Professor CHM-19
+21Dr. Murthy Dharmapura Associate Professor - Research AB4
+22Manu Patel Assistant Professor - Research AB4
+Page 1

@@ -1,0 +1,82 @@
+Faculty Name School Name
+Dr. Sudhamshu Bhushan Raju School of Basic Sciences Humanities and Management
+Dr. Hari M. G School of Basic Sciences Humanities and Management
+Mr. Sandeep Nayak P School of Basic Sciences Humanities and Management
+Dr. Sunith Hebbar School of Basic Sciences Humanities and Management
+Mr. Lidwin Kenneth Michael School of Basic Sciences Humanities and Management
+Dr. Mahesh Prabhu H School of Basic Sciences Humanities and Management
+Dr. Devika Rani K School of Basic Sciences Humanities and Management
+Ms. Anasuya K Lingappa School of Basic Sciences Humanities and Management
+Dr. B Giridhar Kamath School of Basic Sciences Humanities and Management
+Ms. Maitri Manjunath School of Basic Sciences Humanities and Management
+Dr. Deepa B S School of Basic Sciences Humanities and Management
+Dr. Raveendra Rao School of Basic Sciences Humanities and Management
+Dr. Unni Krishnan Karikkat School of Basic Sciences Humanities and Management
+Dr. K V Sriram School of Basic Sciences Humanities and Management
+Mr. Suhas D Prabhu School of Basic Sciences Humanities and Management
+Dr. Praveen K Shetty School of Basic Sciences Humanities and Management
+Lt. Cdr Geethalakshmi P M (Retd.) School of Basic Sciences Humanities and Management
+Dr. Adithi Shasthry K School of Basic Sciences Humanities and Management
+Dr. Swapna K S School of Basic Sciences Humanities and Management
+Dr. Sharal T Correa School of Basic Sciences Humanities and Management
+Dr. Veena Maben School of Basic Sciences Humanities and Management
+Dr. Sumukh S Hungund School of Basic Sciences Humanities and Management
+Dr. Varun Sarda School of Basic Sciences Humanities and Management
+Dr. Yogesh Pai P School of Basic Sciences Humanities and Management
+Dr. Rajesh R Pai School of Basic Sciences Humanities and Management
+Dr. Smitha Nayak School of Basic Sciences Humanities and Management
+Dr. Vineetha Edwina Jathanna School of Basic Sciences Humanities and Management
+Dr. Shilpa Shetty H School of Basic Sciences Humanities and Management
+Dr. Abhay Shetty School of Basic Sciences Humanities and Management
+Dr. Bharath Suresh Kumar School of Basic Sciences Humanities and Management
+Dr. Asish Oommen Mathew School of Basic Sciences Humanities and Management
+Dr. Ramakrishna Nayak School of Basic Sciences Humanities and Management
+Dr. Ramnath Shenoy School of Basic Sciences Humanities and Management
+Mr. Vinod Kamath School of Basic Sciences Humanities and Management
+Dr. Nagraj Kamath H School of Basic Sciences Humanities and Management
+Dr. Amrutharaj H Krishnan School of Basic Sciences Humanities and Management
+Dr. Bhagya R S School of Basic Sciences Humanities and Management
+Mr. Pranav S Joshi School of Basic Sciences Humanities and Management
+Mr. Devicharan R School of Basic Sciences Humanities and Management
+Mr. Nithesh Kumar KS School of Basic Sciences Humanities and Management
+Department Cabin Details
+Humanities and Management AB2-First Floor- Faculty Cabin 1- FC 01
+Humanities and Management AB2-First Floor- Faculty Cabin 1- FC 01
+Humanities and Management AB2-First Floor- Faculty Cabin 1- FC 02
+Humanities and Management AB2-First Floor- Faculty Cabin 1- FC 02
+Humanities and Management AB2-First Floor- Faculty Cabin 2- FC 03
+Humanities and Management AB2-First Floor- Faculty Cabin 2- FC 03
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 04
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 04
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 05
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 06
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 06
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 07
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 08
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 10
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 11
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 12
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 13
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 13
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 14
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 14
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 15
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 16
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 17
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 18
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 19
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 20
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 21
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 21
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 22
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 22
+Humanities and Management AB2-First Floor- Faculty Cabin 3- FC 23
+Humanities and Management AB2-Ground Floor- Faculty Cabin 4- FC 24
+Humanities and Management AB2-Ground Floor- Faculty Cabin 4- FC 25
+Humanities and Management AB2-Ground Floor- Faculty Cabin 4- FC 26
+Humanities and Management AB2-First Floor- Faculty Cabin 05- FC 27
+Humanities and Management AB2-First Floor- Faculty Cabin 05- FC 28
+Humanities and Management AB2-First Floor- Faculty Cabin 05- FC 29
+Humanities and Management AB2-First Floor- Faculty Cabin 05- FC 30
+Humanities and Management AB2-First Floor- Faculty Cabin 05- FC 30
+Humanities and Management AB2-First Floor- Faculty Cabin 05- FC 31
