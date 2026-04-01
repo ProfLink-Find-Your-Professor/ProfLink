@@ -1,0 +1,8 @@
+Fetching Humanities...
+Found 40 faculties in Humanities.
+Sample: {
+  id: 'prof_geethalakshmi-pm',
+  name: 'Lt. CDR. Geethalakshmi PM (Rtd)',
+  department: 'Humanities and Management',
+  school: 'Basic sciences , humanities and management'
+}
