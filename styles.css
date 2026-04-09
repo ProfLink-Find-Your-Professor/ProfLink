@@ -1,6 +1,6 @@
 :root {
     --bg-dark: #0f172a;
-    --card-bg: rgba(30, 41, 59, 0.6);
+    --card-bg: rgba(30, 41, 59, 0.9);
     --card-border: rgba(255, 255, 255, 0.08);
     --text-primary: #f8fafc;
     --text-sec: #94a3b8;
@@ -387,7 +387,6 @@ body {
     border: 1px solid var(--card-border);
     border-radius: 1.2rem;
     padding: 1.5rem;
-    backdrop-filter: blur(20px);
     transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
     display: flex;
     flex-direction: column;

@@ -1,0 +1,238 @@
+# Cabin Format Changes
+
+The following faculty cabin details were standardized to the `Block-Floor-faculty room-chamber` format:
+
+- **Deepthi S**: `AB5-First Floor-Faculty Rooms 3-Chamber 32` &rarr; `AB5-First Floor-Faculty room 3-Chamber 32`
+- **Dr. Harsh Nagar**: `AB5-First Floor-Faculty Rooms 3-Chamber 28` &rarr; `AB5-First Floor-Faculty room 3-Chamber 28`
+- **Mr. Anirudhan Adukkathayar C**: `AB5-Third Floor-Chamber 27` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 27`
+- **Suhas M. V.**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 36` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 36`
+- **Giridhar N Shakarad**: `AB5-First Floor-Faculty Rooms 1-Chamber 6` &rarr; `AB5-First Floor-Faculty room 1-Chamber 6`
+- **Dr. B Kishore**: `AB5-First Floor-Faculty Rooms 3-Chamber 25` &rarr; `AB5-First Floor-Faculty room 3-Chamber 25`
+- **Dr. D Cenitta**: `AB5-First Floor-Faculty Rooms 7-Chamber 67` &rarr; `AB5-First Floor-Faculty room 7-Chamber 67`
+- **Dr. Abhilash K Pai**: `AB4-Fourth Floor-Chamber 124` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 124`
+- **Ashutosh Holla B**: `AB5-Third Floor-Chamber 26` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 26`
+- **Dr. Manjunath Vishweshwar Hegde**: `AB5-Third Floor-Chamber 24` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 24`
+- **Govardhan Hegde K**: `AB5-First Floor-Faculty Rooms 5-Chamber 50` &rarr; `AB5-First Floor-Faculty room 5-Chamber 50`
+- **Dr. Ramya S**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 49` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 49`
+- **Dr. Ahamed Shafeeq B M**: `AB5-First Floor-Faculty Rooms 4-Chamber 41` &rarr; `AB5-First Floor-Faculty room 4-Chamber 41`
+- **Ancilla Juliet Pinto**: `AB5-First Floor-Faculty Rooms 3-Chamber 26` &rarr; `AB5-First Floor-Faculty room 3-Chamber 26`
+- **Dr.Harish S V**: `AB5-First Floor-Faculty Rooms 6-Chamber 55` &rarr; `AB5-First Floor-Faculty room 6-Chamber 55`
+- **Dr. Chetana Pujari**: `AB5-First Floor-Faculty Rooms 12-Chamber 95` &rarr; `AB5-First Floor-Faculty room 12-Chamber 95`
+- **Dr. Divya S**: `AB5-First Floor-Faculty Rooms 8-Chamber 73` &rarr; `AB5-First Floor-Faculty room 8-Chamber 73`
+- **Archana H**: `AB4-Fourth Floor-Chamber 119` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 119`
+- **Dr. Shaik Mahammad Abdul Fayaz**: `BT - 7 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 7`
+- **Akshay Bhat**: `AB4-Fourth Floor-Chamber 130` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 130`
+- **Dr.PB Shanthi**: `AB5-First Floor-Faculty Rooms 6-Chamber 58` &rarr; `AB5-First Floor-Faculty room 6-Chamber 58`
+- **Dr. Ashwath Rao B**: `AB5-First Floor-Faculty Rooms 1-Chamber 12` &rarr; `AB5-First Floor-Faculty room 1-Chamber 12`
+- **Dr. Chithra K**: `AB5-Third Floor-Chamber 31` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 31`
+- **Dr. Arpan Mandal**: `AB5-Third Floor-Faculty Rooms 138-Chamber 12` &rarr; `AB5-Third Floor-Faculty room 138-Chamber 12`
+- **Dr. Diana Olivia**: `AB5-First Floor-Faculty Rooms 12-Chamber 96` &rarr; `AB5-First Floor-Faculty room 12-Chamber 96`
+- **Dr.Radhika Kamath**: `AB5-First Floor-Faculty Rooms 7-Chamber 68` &rarr; `AB5-First Floor-Faculty room 7-Chamber 68`
+- **Jimcymol James**: `AB5-First Floor-Faculty Rooms 7-Chamber 69` &rarr; `AB5-First Floor-Faculty room 7-Chamber 69`
+- **Dr  Anup  Bhat B**: `AB5-First Floor-Faculty Rooms 7-Chamber 61` &rarr; `AB5-First Floor-Faculty room 7-Chamber 61`
+- **Dr. Gangothri Sanil**: `AB5-Third Floor-Faculty Rooms 133-Chamber 6` &rarr; `AB5-Third Floor-Faculty room 133-Chamber 6`
+- **Dr. Vrunda R**: `BT - 13 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 13`
+- **Dr.Srikanth Prabhu**: `AB5-First Floor-Faculty Rooms 7-Chamber 62` &rarr; `AB5-First Floor-Faculty room 7-Chamber 62`
+- **Ganesh Babu C**: `AB5-First Floor-Faculty Rooms 1-Chamber 5` &rarr; `AB5-First Floor-Faculty room 1-Chamber 5`
+- **Dr. Vijendra Prabhu**: `BT - 9 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 9`
+- **Dr. Divya Rao**: `AB5-First Floor-Faculty Rooms 9-Chamber 80` &rarr; `AB5-First Floor-Faculty room 9-Chamber 80`
+- **Dr. G. Arul Elango**: `AB5-Third Floor-Chamber 24` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 24`
+- **Dr. Adarsh Rag S**: `AB4-Fourth Floor-Chamber 130` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 130`
+- **Dr. Anita S Kini**: `AB5-First Floor-Faculty Rooms 3-Chamber 30` &rarr; `AB5-First Floor-Faculty room 3-Chamber 30`
+- **Dr.G Deepa**: `AB5-First Floor-Faculty Rooms 3-Chamber 36` &rarr; `AB5-First Floor-Faculty room 3-Chamber 36`
+- **Musica Supriya**: `AB5-First Floor-Faculty Rooms 2-Chamber 19` &rarr; `AB5-First Floor-Faculty room 2-Chamber 19`
+- **Mr. Mayur Pandya**: `AB5-Third Floor-Faculty Rooms 136-Chamber 10` &rarr; `AB5-Third Floor-Faculty room 136-Chamber 10`
+- **SK SS Shameem**: `AB4-Fourth Floor-Chamber 124` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 124`
+- **Dr. Archana Praveen Kumar Ph.D.**: `AB5-First Floor-Faculty Rooms 2-Chamber 15` &rarr; `AB5-First Floor-Faculty room 2-Chamber 15`
+- **Dr. Shankar Biradar**: `AB5-First Floor-Faculty Rooms 13-Chamber 113` &rarr; `AB5-First Floor-Faculty room 13-Chamber 113`
+- **Dr. N Sivaselvan**: `AB5-First Floor-Faculty Rooms 3-Chamber 35` &rarr; `AB5-First Floor-Faculty room 3-Chamber 35`
+- **Dr. Subhrajit Barick**: `AB5-First Floor-Faculty Rooms 13-Chamber 114` &rarr; `AB5-First Floor-Faculty room 13-Chamber 114`
+- **Dr. Ramya D. Shetty**: `AB5-First Floor-Faculty Rooms 13-Chamber 116` &rarr; `AB5-First Floor-Faculty room 13-Chamber 116`
+- **Mrs. Sahana Roshan**: `AB5-First Floor-Faculty Rooms 3-Chamber 34` &rarr; `AB5-First Floor-Faculty room 3-Chamber 34`
+- **Karanth Shyam Subraya**: `AB5-First Floor-Faculty Rooms 3-Chamber 24` &rarr; `AB5-First Floor-Faculty room 3-Chamber 24`
+- **Mrs. Veena K M**: `AB5-First Floor-Faculty Rooms 12-Chamber 107` &rarr; `AB5-First Floor-Faculty room 12-Chamber 107`
+- **Linda Varghese**: `AB4-Fourth Floor-Chamber 128` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 128`
+- **Dr. Rani Oomman Panicker**: `AB5-First Floor-Faculty Rooms 5-Chamber 49` &rarr; `AB5-First Floor-Faculty room 5-Chamber 49`
+- **Dr. Tanuja Shailesh Ph.D.**: `AB5-First Floor-Faculty Rooms 2-Chamber 14` &rarr; `AB5-First Floor-Faculty room 2-Chamber 14`
+- **Dr. Prakash Kalingrao Aithal**: `AB5-First Floor-Faculty Rooms 1-Chamber 1` &rarr; `AB5-First Floor-Faculty room 1-Chamber 1`
+- **Pragya Jha**: `AB4-Fourth Floor-Chamber 129` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 129`
+- **Dr. Santhosha Rao**: `AB5-First Floor-Faculty Rooms 10-Chamber 91` &rarr; `AB5-First Floor-Faculty room 10-Chamber 91`
+- **Dr. Krishna Prakasha K**: `AB5-First Floor-Faculty Rooms 8-Chamber 76` &rarr; `AB5-First Floor-Faculty room 8-Chamber 76`
+- **Dr. Rashmi Naveen Raj**: `AB5-First Floor-Faculty Rooms 12-Chamber 105` &rarr; `AB5-First Floor-Faculty room 12-Chamber 105`
+- **Dr. Jyothi Upadhya K**: `AB5-First Floor-Faculty Rooms 2-Chamber 17` &rarr; `AB5-First Floor-Faculty room 2-Chamber 17`
+- **Mrs. Pooja S**: `AB5-First Floor-Faculty Rooms 12-Chamber 97` &rarr; `AB5-First Floor-Faculty room 12-Chamber 97`
+- **Dr. Manjunatha**: `AB5-Third Floor-Faculty Rooms 131-Chamber 4` &rarr; `AB5-Third Floor-Faculty room 131-Chamber 4`
+- **Dr. Namrata Marium Chacko**: `AB5-Third Floor-Faculty Rooms 132-Chamber 5` &rarr; `AB5-Third Floor-Faculty room 132-Chamber 5`
+- **Mr. Ranjith K**: `AB5-First Floor-Faculty Rooms 13-Chamber 114` &rarr; `AB5-First Floor-Faculty room 13-Chamber 114`
+- **Dr. Raghavendra Ganiga**: `AB5-First Floor-Faculty Rooms 12-Chamber 102` &rarr; `AB5-First Floor-Faculty room 12-Chamber 102`
+- **Dr. SOUMYA NANDAN MISHRA**: `AB5-Third Floor-Faculty Rooms 138-Chamber 12` &rarr; `AB5-Third Floor-Faculty room 138-Chamber 12`
+- **Dr. Poornalatha G**: `AB5-First Floor-Faculty Rooms 12-Chamber 106` &rarr; `AB5-First Floor-Faculty room 12-Chamber 106`
+- **Ms.Anjana S**: `AB5-First Floor-Faculty Rooms 7-Chamber 66` &rarr; `AB5-First Floor-Faculty room 7-Chamber 66`
+- **Priya Kamath B**: `AB5-First Floor-Faculty Rooms 3-Chamber 27` &rarr; `AB5-First Floor-Faculty room 3-Chamber 27`
+- **Dr. Jashma Suresh PP**: `AB5-First Floor-Faculty Rooms 6-Chamber 59` &rarr; `AB5-First Floor-Faculty room 6-Chamber 59`
+- **Dr. Rohini R Rao**: `AB4-Fourth Floor-Chamber 122` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 122`
+- **Dr. Manjula C Belavagi**: `AB5-First Floor-Faculty Rooms 8-Chamber 77` &rarr; `AB5-First Floor-Faculty room 8-Chamber 77`
+- **Suma D**: `AB5-First Floor-Faculty Rooms 1-Chamber 7` &rarr; `AB5-First Floor-Faculty room 1-Chamber 7`
+- **Dr. P C Siddalingaswamy**: `AB5-First Floor-Faculty Rooms 4-Chamber 40` &rarr; `AB5-First Floor-Faculty room 4-Chamber 40`
+- **Dr Savitha G**: `AB5-Third Floor-Chamber 25` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 25`
+- **Dr. Raghavendra S**: `AB5-First Floor-Faculty Rooms 10-Chamber 88` &rarr; `AB5-First Floor-Faculty room 10-Chamber 88`
+- **Dr. Rajashree Krishna**: `AB5-First Floor-Faculty Rooms 2-Chamber 20` &rarr; `AB5-First Floor-Faculty room 2-Chamber 20`
+- **Mr. Shanmukharaja M**: `AB5--2 Floor-ICAS-Chamber 2` &rarr; `AB5-2 Floor-ICAS-Chamber 2`
+- **Dr. Manoj T**: `AB5-Third Floor-Faculty Rooms 131-Chamber 4` &rarr; `AB5-Third Floor-Faculty room 131-Chamber 4`
+- **Dr. Raghurama Holla**: `AB5-Third Floor-Chamber 24` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 24`
+- **Mr. Sudhina Kumar G K**: `AB5-First Floor-Faculty Rooms 13-Chamber 113` &rarr; `AB5-First Floor-Faculty room 13-Chamber 113`
+- **Tojo Thomas**: `AB4-Fourth Floor-Chamber 123` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 123`
+- **Dr. Santhosh Kamath**: `AB5-First Floor-Faculty Rooms 10-Chamber 92` &rarr; `AB5-First Floor-Faculty room 10-Chamber 92`
+- **Dr. Pankaj Kumar**: `AB5-First Floor-Faculty Rooms 13-Chamber 115` &rarr; `AB5-First Floor-Faculty room 13-Chamber 115`
+- **Rajesh Gopakumar**: `AB5-First Floor-Faculty Rooms 4-Chamber 44` &rarr; `AB5-First Floor-Faculty room 4-Chamber 44`
+- **Dr. Krishnaraj Chadaga**: `AB5-Third Floor-Faculty Rooms 135-Chamber 9` &rarr; `AB5-Third Floor-Faculty room 135-Chamber 9`
+- **Mrs. Swathi B P**: `AB5-First Floor-Faculty Rooms 8-Chamber 78` &rarr; `AB5-First Floor-Faculty room 8-Chamber 78`
+- **Dr. Saraswati Koppad**: `AB5-Third Floor-Chamber 28` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 28`
+- **Dr. Prajna Paramita Pradhan**: `AB5-Third Floor-Faculty Rooms 137-Chamber 11` &rarr; `AB5-Third Floor-Faculty room 137-Chamber 11`
+- **Raghu Thekke Veedu**: `AB5-Third Floor-Chamber 17` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 17`
+- **Dr. Shavantrevva Sangappa Bilakeri**: `AB4-Fourth Floor-Chamber 127` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 127`
+- **Dr. Sucharitha Shetty**: `AB5-First Floor-Faculty Rooms 1-Chamber 9` &rarr; `AB5-First Floor-Faculty room 1-Chamber 9`
+- **Roopashri Shetty**: `AB5-First Floor-Faculty Rooms 2-Chamber 21` &rarr; `AB5-First Floor-Faculty room 2-Chamber 21`
+- **Dr. Roshan David Jathanna**: `AB5-First Floor-Faculty Rooms 1-Chamber 11` &rarr; `AB5-First Floor-Faculty room 1-Chamber 11`
+- **Dr. Satyajit Mahapatra**: `AB5--2 Floor-ICAS-Chamber 11` &rarr; `AB5-2 Floor-ICAS-Chamber 11`
+- **Manoj R**: `AB5-First Floor-Faculty Rooms 5-Chamber 47` &rarr; `AB5-First Floor-Faculty room 5-Chamber 47`
+- **Dr. Veena Mayya**: `AB5-First Floor-Faculty Rooms 12-Chamber 94` &rarr; `AB5-First Floor-Faculty room 12-Chamber 94`
+- **Dr. Swathi Prabhu**: `AB5-First Floor-Faculty Rooms 13-Chamber 117` &rarr; `AB5-First Floor-Faculty room 13-Chamber 117`
+- **Mrs. Sangeetha TS**: `AB5-First Floor-Faculty Rooms 12-Chamber 108` &rarr; `AB5-First Floor-Faculty room 12-Chamber 108`
+- **Dr. Shwetha Rai**: `AB5-First Floor-Faculty Rooms 2-Chamber 13` &rarr; `AB5-First Floor-Faculty room 2-Chamber 13`
+- **Dr. KAMARAJ K**: `AB5-Third Floor-Faculty Rooms 134-Chamber 7` &rarr; `AB5-Third Floor-Faculty room 134-Chamber 7`
+- **Dr. Sandhyalaxmi G Navada**: `AB5-Ground Floor-Faculty Rooms 4-Chamber 59` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 59`
+- **Praveen Pai T**: `AB5-First Floor-Faculty Rooms 1-Chamber 3` &rarr; `AB5-First Floor-Faculty room 1-Chamber 3`
+- **Dr. Bore Gowda S B**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 09` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 09`
+- **Dr.G. Pradeep Reddy**: `AB5--2 Floor-ICAS-Chamber 9` &rarr; `AB5-2 Floor-ICAS-Chamber 9`
+- **Dr. Muralikrishna SN**: `AB5-First Floor-Faculty Rooms 5-Chamber 51` &rarr; `AB5-First Floor-Faculty room 5-Chamber 51`
+- **Dr Arjun Sunil Rao**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 64` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 64`
+- **Dr Adarsh Nigam**: `AB5 - Ground Floor - Faculty Rooms 1 - Chamber 03` &rarr; `AB5-Ground Floor-Faculty room 1-Chamber 03`
+- **Dr. Goutham Simha G.D**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 14` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 14`
+- **A Gopalakrishna Pai**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 63` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 63`
+- **Dr K. T. Navya**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 46` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 46`
+- **Dr.Geetha M**: `AB5-First Floor-Faculty Rooms 1-Chamber 10` &rarr; `AB5-First Floor-Faculty room 1-Chamber 10`
+- **Dr Akshatha K. R.**: `AB5 - Ground Floor - Faculty Rooms 1 - Chamber 01` &rarr; `AB5-Ground Floor-Faculty room 1-Chamber 01`
+- **Dr. Smitha N Pai**: `AB5-First Floor-Faculty Rooms 8-Chamber 70` &rarr; `AB5-First Floor-Faculty room 8-Chamber 70`
+- **Dr. G. Subramanya Nayak**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 33` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 33`
+- **Nakul Shetty K**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 50` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 50`
+- **Dr. Om Prakash Kumar**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 66` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 66`
+- **Dr. Vidya Rao**: `AB4-Fourth Floor-Chamber 120` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 120`
+- **Dr. Ananthakrishna T**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 51` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 51`
+- **Dr.Pramod K**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 21` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 21`
+- **Dr Amit Kumar Goyal**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 43` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 43`
+- **Dr. Kanthi M**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 28` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 28`
+- **Dr. Ajitha Shenoy K B**: `AB5-First Floor-Faculty Rooms 12-Chamber 112` &rarr; `AB5-First Floor-Faculty room 12-Chamber 112`
+- **Dr Bhavanari Mallikarjun**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 16` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 16`
+- **C Sivananda Reddy**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 26` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 26`
+- **Dr. Deepak Parashar**: `AB5-Third Floor-Chamber 36` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 36`
+- **Dr Divya B**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 15` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 15`
+- **Dr. Krishnamoorthi Makkithaya**: `AB5-First Floor-Faculty Rooms 5-Chamber 46` &rarr; `AB5-First Floor-Faculty room 5-Chamber 46`
+- **Aparna V**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 47` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 47`
+- **Dr. Manjula Shenoy K**: `AB5-First Floor-Faculty Rooms 12-Chamber 110` &rarr; `AB5-First Floor-Faculty room 12-Chamber 110`
+- **H Srikanth Kamath**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 13` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 13`
+- **Dr. Narendra V G**: `AB5-First Floor-Faculty Rooms 4-Chamber 43` &rarr; `AB5-First Floor-Faculty room 4-Chamber 43`
+- **Dr Muralikrishna H**: `AB5 - Ground Floor - Faculty Rooms 1 - Chamber 02` &rarr; `AB5-Ground Floor-Faculty room 1-Chamber 02`
+- **Dr Karthi Pradeep**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 40` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 40`
+- **Dr Bhaskar Awadhiya**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 57` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 57`
+- **Dr. M Sathish Kumar**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 20` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 20`
+- **Dr.Vijaya Arjunan R**: `AB5-First Floor-Faculty Rooms 3-Chamber 33` &rarr; `AB5-First Floor-Faculty room 3-Chamber 33`
+- **Dr.Roopalakshmi R**: `AB5-First Floor-Faculty Rooms 2-Chamber 16` &rarr; `AB5-First Floor-Faculty room 2-Chamber 16`
+- **Dr. Sumith N**: `AB5-First Floor-Faculty Rooms 12-Chamber 100` &rarr; `AB5-First Floor-Faculty room 12-Chamber 100`
+- **Dr. Neelima Bayyapu**: `AB5-First Floor-Faculty Rooms 5-Chamber 48` &rarr; `AB5-First Floor-Faculty room 5-Chamber 48`
+- **Dr.T.Sujithra**: `AB5-First Floor-Faculty Rooms 3-Chamber 23` &rarr; `AB5-First Floor-Faculty room 3-Chamber 23`
+- **Dr. Kaliraj S**: `AB5-First Floor-Faculty Rooms 9-Chamber 81` &rarr; `AB5-First Floor-Faculty room 9-Chamber 81`
+- **Dr Pramod Martha**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 17` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 17`
+- **Dr. Lella Kranthi Kumar**: `AB5-Third Floor-Chamber 13` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 13`
+- **Dr. Gururaj**: `AB5-First Floor-Faculty Rooms 3-Chamber 37` &rarr; `AB5-First Floor-Faculty room 3-Chamber 37`
+- **Vinayak M**: `AB5-First Floor-Chamber TBD` &rarr; `AB5-First Floor-Unknown Faculty room-Chamber TBD`
+- **Dr. Akshay K C**: `AB5-First Floor-Faculty Rooms 9-Chamber 82` &rarr; `AB5-First Floor-Faculty room 9-Chamber 82`
+- **Vidhya V**: `AB5-First Floor-Faculty Rooms 6-Chamber 53` &rarr; `AB5-First Floor-Faculty room 6-Chamber 53`
+- **Dr. Rashmi Laxmikant Malghan**: `AB5-Third Floor-Chamber 39` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 39`
+- **Dr. Sameena Pathan**: `AB5-First Floor-Faculty Rooms 13-Chamber 118` &rarr; `AB5-First Floor-Faculty room 13-Chamber 118`
+- **Dr. R. Vinoth**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 25` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 25`
+- **Dr. Vidya Kamath**: `AB5-Third Floor-Faculty Rooms 132-Chamber 5` &rarr; `AB5-Third Floor-Faculty room 132-Chamber 5`
+- **Sindhura D N**: `AB5-Third Floor-Chamber 28` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 28`
+- **Dr. Pallavi R Mane**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 23` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 23`
+- **Ms. Athira Gopalakrishnan**: `AB4-Fourth Floor-Chamber 128` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 128`
+- **Dr. Krishnamurthy Nayak**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 08` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 08`
+- **Dr. Ravilla Dilli**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 54` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 54`
+- **Dr. Aparna U.**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 30` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 30`
+- **Dr Jagadeesh Chandra R B**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 27` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 27`
+- **Dr. Shailendra Kumar Tiwari**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 12` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 12`
+- **Dr. Shounak De**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 11` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 11`
+- **Dr. Archana Mahadev Rao**: `BT - 13 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 13`
+- **Dr. Rahul Ratnakumar**: `AB5 - Ground Floor - Faculty Rooms 1 - Chamber 06` &rarr; `AB5-Ground Floor-Faculty room 1-Chamber 06`
+- **Prashanth M Prabhu**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 37` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 37`
+- **Vijay S R**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 31` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 31`
+- **Dr. Somashekara Bhat**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 19` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 19`
+- **Dr Shashi Kumar G S**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 32` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 32`
+- **Dr Shreeharsha K G**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 38` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 38`
+- **Suhas K**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 39` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 39`
+- **Dr. Yashwanth N**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 34` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 34`
+- **Dr. Vinod Kumar Joshi**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 55` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 55`
+- **Dr. Rajiv Mohan David**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 41` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 41`
+- **Dr. Supreetha B S**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 10` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 10`
+- **Dr Ujjwal Verma**: `AB5 - Ground Floor - Faculty Rooms 1 - Chamber 03` &rarr; `AB5-Ground Floor-Faculty room 1-Chamber 03`
+- **Soumya S.**: `AB5 - Ground Floor - Faculty Rooms 1 - Chamber 05` &rarr; `AB5-Ground Floor-Faculty room 1-Chamber 05`
+- **Dr. Sudheesh P G**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 24` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 24`
+- **Vishnumurthy Kedlaya K**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 22` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 22`
+- **Dr. Thivaharan V**: `BT - 12 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 12`
+- **Dr. Kannan N**: `BT - 1 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 1`
+- **Dr. Bharath Raja Guru**: `BT - 3 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 3`
+- **Dr. Chiranjit Ghosh**: `BT - 11 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 11`
+- **Dr. Balaji S**: `BT - 2 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 2`
+- **Dr. Salmataj S A**: `BT - 15 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 15`
+- **Dr. Divyashree M S**: `BT - 6 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 6`
+- **Dr. Praveen Kumar**: `BT - 9 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 9`
+- **Dr. Ravindranath B S**: `BT - 7 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 7`
+- **Dr. Nagaraj Naik**: `AB5-First Floor-Faculty Rooms 2-Chamber 22` &rarr; `AB5-First Floor-Faculty room 2-Chamber 22`
+- **Dr.Mamatha Balachandra**: `AB5-First Floor-Faculty Rooms 6-Chamber 57` &rarr; `AB5-First Floor-Faculty room 6-Chamber 57`
+- **Dr. Nagaraj N Katagi**: `BT - 13 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 13`
+- **Dr.Sampath Kumar**: `AB5 - Ground Floor - Faculty Rooms 4 - Chamber 65` &rarr; `AB5-Ground Floor-Faculty room 4-Chamber 65`
+- **Mrs. Anuradha Rao**: `AB5-First Floor-Faculty Rooms 12-Chamber 101` &rarr; `AB5-First Floor-Faculty room 12-Chamber 101`
+- **Dr. Sandhya Parasnath Dubey**: `AB5-Third Floor-Chamber 31` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 31`
+- **Dr. Balachandra**: `AB5-First Floor-Faculty Rooms 8-Chamber 75` &rarr; `AB5-First Floor-Faculty room 8-Chamber 75`
+- **Dr. Rajesh J**: `BT - 11 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 11`
+- **Dr. Narasimhan S**: `BT - 10 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 10`
+- **Dr. Manohara M M Pai**: `AB5-First Floor-Faculty Rooms 9-Chamber 83` &rarr; `AB5-First Floor-Faculty room 9-Chamber 83`
+- **Dr.Manjunath K N**: `AB5-First Floor-Faculty Rooms 4-Chamber 39` &rarr; `AB5-First Floor-Faculty room 4-Chamber 39`
+- **Dr. Ramananda Bhat M**: `BT - 4 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 4`
+- **Dr. Radhika M Pai**: `AB5-First Floor-Faculty Rooms 8-Chamber 74` &rarr; `AB5-First Floor-Faculty room 8-Chamber 74`
+- **Dr. Preetham Kumar**: `AB5-First Floor-Faculty Rooms 9-Chamber 84` &rarr; `AB5-First Floor-Faculty room 9-Chamber 84`
+- **Dr. Ramachandra Murthy V**: `BT - 5 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 5`
+- **Dr.Dinesh Acharya U**: `AB5-First Floor-Faculty Rooms 5-Chamber 45` &rarr; `AB5-First Floor-Faculty room 5-Chamber 45`
+- **Mohandas Shenoy P**: `AB5-First Floor-Faculty Rooms 1-Chamber 8` &rarr; `AB5-First Floor-Faculty room 1-Chamber 8`
+- **Dr. V. Sivakumar**: `AB5-First Floor-Faculty Rooms 9-Chamber 87` &rarr; `AB5-First Floor-Faculty room 9-Chamber 87`
+- **Dr.Gopalakrishna N Kini**: `AB5-First Floor-Faculty Rooms 7-Chamber 64` &rarr; `AB5-First Floor-Faculty room 7-Chamber 64`
+- **Dr Renuka A**: `AB5-First Floor-Faculty Rooms 7-Chamber 63` &rarr; `AB5-First Floor-Faculty room 7-Chamber 63`
+- **Dr. Chandrakala C B**: `AB5-First Floor-Faculty Rooms 8-Chamber 72` &rarr; `AB5-First Floor-Faculty room 8-Chamber 72`
+- **Dr. Venkatesh Bhandage**: `AB5-First Floor-Faculty Rooms 6-Chamber 54` &rarr; `AB5-First Floor-Faculty room 6-Chamber 54`
+- **Shivaprasad G**: `AB5-First Floor-Faculty Rooms 1-Chamber 4` &rarr; `AB5-First Floor-Faculty room 1-Chamber 4`
+- **Dr.Ashalatha Nayak**: `AB5-First Floor-Faculty Rooms 6-Chamber 56` &rarr; `AB5-First Floor-Faculty room 6-Chamber 56`
+- **Dr. Sanjay Singh**: `AB5-First Floor-Faculty Rooms 11-Chamber 99` &rarr; `AB5-First Floor-Faculty room 11-Chamber 99`
+- **Dr.Hemalatha S**: `AB5-First Floor-Faculty Rooms 7-Chamber 65` &rarr; `AB5-First Floor-Faculty room 7-Chamber 65`
+- **Dr.Vivekananda Bhat K**: `AB5-First Floor-Faculty Rooms 3-Chamber 29` &rarr; `AB5-First Floor-Faculty room 3-Chamber 29`
+- **Manamohana K**: `AB5-First Floor-Faculty Rooms 4-Chamber 38` &rarr; `AB5-First Floor-Faculty room 4-Chamber 38`
+- **Dr. Poornima Panduranga Kundapur**: `AB4-Fourth Floor-Chamber 126` &rarr; `AB4-Fourth Floor-Unknown Faculty room-Chamber 126`
+- **Dr. Girija Attigeri**: `AB5-Third Floor-Chamber 23` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 23`
+- **Mrs. Vibha**: `AB5-First Floor-Faculty Rooms 12-Chamber 98` &rarr; `AB5-First Floor-Faculty room 12-Chamber 98`
+- **Dr. Anoop B N**: `AB5-Ground Floor-Chamber 02` &rarr; `AB5-Ground Floor-Unknown Faculty room-Chamber 02`
+- **Dr. Ujjwal**: `AB5-First Floor-Faculty Rooms 6-Chamber 52` &rarr; `AB5-First Floor-Faculty room 6-Chamber 52`
+- **Dr. Radha Krishna Reddy P**: `AB5-Third Floor-Faculty Rooms 136-Chamber 10` &rarr; `AB5-Third Floor-Faculty room 136-Chamber 10`
+- **Ms. Jayashree Hegde K**: `AB5-Third Floor-Chamber 16` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 16`
+- **Dr. Avik Bose**: `AB5--2 Floor-ICAS-Chamber 6` &rarr; `AB5-2 Floor-ICAS-Chamber 6`
+- **Mr. Vinayak G Pai**: `AB5-First Floor-Faculty Rooms 3-Chamber 28` &rarr; `AB5-First Floor-Faculty room 3-Chamber 28`
+- **Dr. Snehal  Samanth**: `AB5-Third Floor-Faculty Rooms 135-Chamber 9` &rarr; `AB5-Third Floor-Faculty room 135-Chamber 9`
+- **Dr. Shreenidhi H Bhat**: `AB5-Third Floor-Chamber 27` &rarr; `AB5-Third Floor-Unknown Faculty room-Chamber 27`
+- **Dr. Ramakrishna M**: `AB5-First Floor-Faculty Rooms 11-Chamber 93` &rarr; `AB5-First Floor-Faculty room 11-Chamber 93`
+- **Dr. Gouranga Mandal**: `AB5-Third Floor-Faculty Rooms 139-Chamber 37` &rarr; `AB5-Third Floor-Faculty room 139-Chamber 37`
+- **Dr. Naresh Kumar Mani**: `BT - 8 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 8`
+- **Dr. Bhukya Padma**: `AB5-Third Floor-Faculty Rooms 133-Chamber 6` &rarr; `AB5-Third Floor-Faculty room 133-Chamber 6`
+- **Dr. Ritu Raval**: `BT - 14 AB2` &rarr; `AB2-Unknown Floor-BT-Chamber 14`
+- **Dr. Sucheta Kolekar**: `AB5-First Floor-Faculty Rooms 9-Chamber 85` &rarr; `AB5-First Floor-Faculty room 9-Chamber 85`
+- **Dr. Rajesh Mahadeva**: `AB5-First Floor-Faculty Rooms 8-Chamber 71` &rarr; `AB5-First Floor-Faculty room 8-Chamber 71`
+- **Dr. Anu Shaju Areeckal**: `AB5 - Ground Floor - Faculty Rooms 2 - Chamber 18` &rarr; `AB5-Ground Floor-Faculty room 2-Chamber 18`
+- **Dr Atanu Das**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 42` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 42`
+- **Dr Praveen Kumar**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 48` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 48`
+- **Dr. Tanweer**: `AB5 - Ground Floor - Faculty Rooms 3 - Chamber 29` &rarr; `AB5-Ground Floor-Faculty room 3-Chamber 29`
